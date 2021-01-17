@@ -17,9 +17,3 @@
 <p>che per me sei importante, più di quanto avrei mai immaginato</p>
 <p>in quel giorno di ottobre</p>
 <h1>Buon compleanno minuscolo pulcino</h1>
-
-
-
-
-</body>
-</html>
