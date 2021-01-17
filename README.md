@@ -1,14 +1,10 @@
 <h1>Ti chiedo scusa</h1>
-<p>Perché ti ho ferita.</p>
-<p>Per aver avuto paura.</p>
 <p>Per non averti sempre dato il meglio di me.</p>
-<p>Per non averti dimostrato sufficientemente bene quello che provo per te.</p>
 <p>Per aver sbagliato.</p>
 <h1>Sappi</h1>
 <p>E te lo dico anche in HTML</p>
 <p>Che a quasi 33 anni</p>
 <p>Io per te provo qualcosa di unico</p>
-<p>E forte</p>
 <p>Comunque le cose vadano tra di noi, tu sarai sempre dentro di me</p>
 <p>e farò</p>
 <p>quello che serve</p>
